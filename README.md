@@ -1,5 +1,4 @@
-<meta name="google-site-verification" content="google-site-verification: google5edf61181a80eda9.html" />
-
+<meta name="google-site-verification" content="XXlthcQ4TgHt2cmkMArcT2qVSHus_yHNU2aoQr-ds7Y" />
 # 🤖 Full Stack AI Engineer
 
 Passionate about building intelligent systems — from **RAG pipelines** and **LLM applications** to **agentic workflows** and **cloud-native deployments**.
