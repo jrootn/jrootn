@@ -1,4 +1,6 @@
-# 💫 About Me:
+
+<!-- Google Search Console verification -->
+<meta name="google-site-verification" content="# 💫 About Me:
 Computer Vision & Machine Learning Engineer at Fraunhofer IOSB, specializing in industrial AI and hyperspectral imaging. Published co-author with experience in object detection, instance segmentation, and sensor-based sorting systems.
 
 # 💻 Tech Stack:
@@ -14,3 +16,5 @@ Computer Vision & Machine Learning Engineer at Fraunhofer IOSB, specializing in 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jrootn&icon=0&color=0)](https://visitcount.itsvg.in)
+" />
+
